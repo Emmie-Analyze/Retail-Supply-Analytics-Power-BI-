@@ -164,7 +164,7 @@ Summarises the key findings and presents practical business recommendations base
 
 ## Conclusion & Recommendations
 
-![Conclusion](Conclusion.png.png)
+![Conclusion](Conclusions_Recommendations.png.png)
 
 ---
 
