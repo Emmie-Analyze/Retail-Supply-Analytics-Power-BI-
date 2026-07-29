@@ -134,37 +134,37 @@ Summarises the key findings and presents practical business recommendations base
 
 ## Executive Summary
 
-![Executive Summary](Images/01_Executive_Summary.png)
+![Executive Summary](Executive_Summary.png.png)
 
 ---
 
 ## Overview Dashboard
 
-![Overview](Images/02_Overview.png)
+![Overview](Overview.png.png)
 
 ---
 
 ## Category Report
 
-![Category Report](Images/03_Category_Report.png)
+![Category Report](Category_Report.png.png)
 
 ---
 
 ## Monthly Report
 
-![Monthly Report](Images/04_Monthly_Report.png)
+![Monthly Report](Monthly_Report.png.png)
 
 ---
 
 ## Customer & Retail Person Report
 
-![Customer Report](Images/05_Customer_Retail_Report.png)
+![Customer Report](Customer_Retail_Report.png.png)
 
 ---
 
 ## Conclusion & Recommendations
 
-![Conclusion](Images/06_Conclusion_Recommendations.png)
+![Conclusion](Conclusion.png.png)
 
 ---
 
